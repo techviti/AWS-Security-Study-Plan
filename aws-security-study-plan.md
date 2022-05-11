@@ -1,9 +1,6 @@
 # AWS Security Study Plan
 
-I am making the study plan irrespective of job role under AWS Security category. It can be AWS Security Analyst, AWS Security Researcher or AWS Security Engineer or Cloud Security Operations Expert or Cloud Security Manager.
-
-So, check how much you can cover and close the checkbox. The more you close, the better candidate you are for the job role.
-Also, I assume you have already checked and comfortable with [Common Security Skills study plan](common-skills-study-plan.md).
+This study plan is for job role under AWS Security category. It can be AWS Security Analyst, AWS Security Researcher or AWS Security Engineer or Cloud Security Operations Expert or Cloud Security Manager.
 
 ## AWS Security Skills Learning and Checklist
 My only suggestion here is ask below 4 questions while learning each topic/concepts etc.
@@ -127,12 +124,4 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 ## AWS Security Videos and Courses
 Check [**Awesome AWS Security**](https://github.com/jassics/awesome-aws-security) repo for more details on book, videos, courses etc.
 
-## AWS Security Interview Questions
-I have a [separate repo for skills roadmap and interview questions](https://github.com/jassics/cybersecurity-skills-career-roadmap/blob/master/interview-questions/aws-security-interview-questions.md). I will keep it updated time to time. You can star it or [fork it](https://github.com/jassics/cybersecurity-skills-career-roadmap/fork). 
 
-## People to follow on twitter
-1. [Abhay Bhargav](https://twitter.com/abhaybhargav)
-2. [Scott Piper](https://twitter.com/0xdabbad00)
-3. [Anant Srivastava](https://twitter.com/anantshri)
-4. [Aakash Mahajan](https://twitter.com/makash)
-5. [Sanjeev Jaiswal](https://twitter.com/jassics)

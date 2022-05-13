@@ -121,7 +121,6 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 3. [NIST CSF for AWS](https://d1.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf)
 4. ISO 27017
 
-## AWS Security Videos and Courses
-Check [**Awesome AWS Security**](https://github.com/jassics/awesome-aws-security) repo for more details on book, videos, courses etc.
+
 
 
